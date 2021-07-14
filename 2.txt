@@ -1,0 +1,4 @@
+香港,#genre#
+翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台 (簡/英字幕),https://cdn.hkdtmb.com/hls/81b/index.m3u8
+J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8

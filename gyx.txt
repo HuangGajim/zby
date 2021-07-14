@@ -587,10 +587,3 @@ KiD电影二台,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain
 影视5,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
 影视5,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
 影视6,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
-感奥苔,#genre#
-最近较严,http://www.xinhetv.top/mtv/mima.mp4
-暂时关闭,http://www.xinhetv.top/mtv/mima.mp4
-关注微信,http://www.xinhetv.top/mtv/mima.mp4
-公众号:盒子汇,http://www.xinhetv.top/mtv/mima.mp4
-回复:电视软件,http://www.xinhetv.top/mtv/mima.mp4
-
